@@ -1,0 +1,7 @@
+ext {
+    compileSdk=26
+    buildTools = '27.0.3'
+    minSdk=10
+    targetSdk=24
+    appCompat = '25.3.1'
+}
